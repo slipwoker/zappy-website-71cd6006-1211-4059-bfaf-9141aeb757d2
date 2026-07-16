@@ -1,0 +1,83 @@
+# רמי וקוקי — Generative Engine Optimization Map
+
+> A YouTube channel dedicated to parrots, built out of a deep love for feathered companions. The channel features a fun and playful brand personality centered around a flock of parrot 'stars', offering a mix of hilarious parrot videos, care guides, training tips, and a behind-the-scenes look at daily life with parrots. The brand has a warm, humorous, and family-friendly vibe with a tropical/bird motif, using parrot emojis and playful language to engage its audience. The primary call-to-action is driving YouTube subscriptions.
+
+---
+
+## Pages
+
+### בית
+https://-71cd6006.zappy5.app
+ערוץ יוטיוב משפחתי ומלא הומור על תוכים. סרטונים מצחיקים, טיפים לטיפול, אילוף ומבט אל חיי היום-יום עם חברים מנוצות. הירשמו עכשיו לעוף איתנו!
+
+### הכירו את העדר
+https://-71cd6006.zappy5.app/meet-the-flock
+גלו את הלהקה מאחורי הקלעים! הכירו כל תוכי עם האופי הייחודי, הסיפורים המצחיקים והקסם האישי שהופך את הערוץ שלנו למיוחד במינו.
+
+### סרטונים ומדריכים
+https://-71cd6006.zappy5.app/videos-and-guides
+צללו לספריית סרטוני הבידור והמדריכים שלנו: רגעים מצחיקים, טיפים מומחים לאילוף, מדריכי טיפול וכל מה שצריך לחיים מאושרים עם תוכים. התחילו לצפות!
+
+### צור קשר
+https://-71cd6006.zappy5.app/contact
+יש לכם שאלות על תוכים, רעיון לשיתוף פעולה או סתם בא לכם להגיד שלום? צרו קשר עם רמי וקוקי – נשמח לשמוע מכם ולהשיב במהירות!
+
+### תודה רבה | רמי וקוקי
+https://-71cd6006.zappy5.app/thank-you
+תודה שפניתם לרמי וקוקי. פנייתכם התקבלה בהצלחה ונחזור אליכם בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-71cd6006.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-71cd6006.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-71cd6006.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-71cd6006.zappy5.app/contact
+- Endpoint: https://-71cd6006.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רמי וקוקי
+A YouTube channel dedicated to parrots, built out of a deep love for feathered companions. The channel features a fun and playful brand personality centered around a flock of parrot 'stars', offering a mix of hilarious parrot videos, care guides, training tips, and a behind-the-scenes look at daily life with parrots. The brand has a warm, humorous, and family-friendly vibe with a tropical/bird motif, using parrot emojis and playful language to engage its audience. The primary call-to-action is driving YouTube subscriptions.
+
+## Target Audience
+- חובבי תוכים, בעלי מחמד, קהל רחב המחפש תוכן מצחיק ומדריכי טיפול
+- חובבי תוכים
+- בעלי מחמד המחפשים תוכן מצחיק
+- מחפשי תוכן ידידותי למשפחה
+
+## Industry
+Entertainment / YouTube Channel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-71cd6006.zappy5.app/sitemap.xml
+- Robots: https://-71cd6006.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-71cd6006.zappy5.app/llms-full.txt
